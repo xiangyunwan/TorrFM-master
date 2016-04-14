@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4_1e9bfe15661981f4e4d9c0877201bc7455ce822a.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-android\4.48\afa06f539a4026c10b247386312aa67404b80a16\ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\ormlite-android-4.48_d65f5fe11f4d7d4a38b6132f5820dab4ebdca715.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57528b5deee77bfa2188fc279fd45066366f17f5">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-0.9.0_a64352362543359de0eafaca5e33fe09b71754e8.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_74578ae2d3b3308c834d96b236ad49cd00c25b48.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\com.daimajia.androidanimations-library-1.1.3_87dc8c78550e80770283c4dfd4358466ac327c72.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_9ac696af2c8b147777c10972b0b46277bb4c603c.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\cn.pedant.sweetalert\library\1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\cn.pedant.sweetalert-library-1.3_c05835f2ddad9433f5c79bd59a733ee24601d29e.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\com.daimajia.easing-library-1.0.1_4baa0b8d6c633415aa11e511920091835d7b8147.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.github.zzz40500\AndroidSweetSheet\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e6e30a296f144126c62da545452456950e56b27">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\com.github.zzz40500-AndroidSweetSheet-1.1.0_ac15a85adb2ae2ad736d571acc2ed0489b9ddabf.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\com.balysv.materialmenu-material-menu-1.5.4_4f6261adaf272497a13f46648d6aa1edcdd7ce65.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\libs\xiaomi_sdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="42283fccb14c222dc7b16927ef5a3de2e6da29fe">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\xiaomi_sdk_14f0ac7ba97cea45053f2613a9acf7def85db46c.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4ee95617ab850030c51486d02bc9d207b14419c6">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-0.9.0_a97772348b0bbddc1a9e587fadcfac6275b4873f.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\okio-1.6.0_542c307c9ebcd941b9085d3db2de64d421445672.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-core\4.48\e579bd2905d0399af5029aaaf9817d5fa0ca88a5\ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\ormlite-core-4.48_621850ee948ee90f88d4f6eb9d4ab5c411f1abd2.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\org.androidannotations\androidannotations-api\3.3.2\7d6149d856b880bbd676047aacb8446a758fbbdb\androidannotations-api-3.3.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7d6149d856b880bbd676047aacb8446a758fbbdb">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\androidannotations-api-3.3.2_560570accd9090486e58f1b9bf0e599681f332e3.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_8b583871b86ea82744f9dc1596d7e646be783c0b.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.alibaba\fastjson\1.1.46.android\108717c93f7aec31fb86db57cb4ad1e26034c638\fastjson-1.1.46.android.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="108717c93f7aec31fb86db57cb4ad1e26034c638">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\fastjson-1.1.46.android_12462d3047bb61910dd34665d5f8050d8a7e89ed.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3158c15bb0ae97575debdb40cfcd8f0f9f244526">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-0.9.0_d6bbd309f640779824920aab4bc31523eef1a0c9.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.github.ozodrukh\CircularReveal\1.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4e01297e21f918ce3de5f20f1b7ab5682f125ff4">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\com.github.ozodrukh-CircularReveal-1.3.1_95e7ef850b41077a12688fd145137ec9d578e5ec.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.2.0_035e2c100e93dd7c56a504b5bdc6a2860e80ddb2.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.daimajia.numberprogressbar\library\1.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4196173ec5799ff211761f90874802789c6cc4ac">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\com.daimajia.numberprogressbar-library-1.2_18499996db71db3a5e43e292b477c3a4dcf34f3c.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_225d2608dd4ecc7e25c6c01d95dfbcfff242214a.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.github.johnpersano\supertoasts\1.3.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2e58dce1ec89cd4706295d355aaf920aee3d91c5">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\com.github.johnpersano-supertoasts-1.3.4_42da2f57ca5d5a3efa24e1df322f3c87d415e421.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.1.0_974f87a94c85d61991bc08e09eb65d8d7050338d.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.0_ca48cab319f4e8e2427c8584378f245376902440.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\library-2.4.0_6a3127adc4fdadc7a504676be01b82bbd9d2238e.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_27005c4275d1f94af24db05792fc9123e55b5751.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="39bd9f893c75eac9e76559cc4e96af6e417afdc5">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-0.9.0_04b5506377fb85bb2bcc64a9395b75b12840521d.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ca51025f4a58fc7fb6cfaa85e7d09b7ae47e6187">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-0.9.0_457e0e3e91a904fdd0ec89be96854814c016aba9.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.1\b494968f6050d494de55dc3ce005e59c7eb40012\rxjava-1.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b494968f6050d494de55dc3ce005e59c7eb40012">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\rxjava-1.1.1_d0ddc48c3d2e166e10fd1120a749df5857b442e4.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\me.relex\circleindicator\1.1.6\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1554a1528c06241a2038d30cd62469876f6c972b">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\me.relex-circleindicator-1.1.6_a3d7b8f6afb0d235ef5b32b148f07b796566d0a6.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.0.0-beta4\bd49baf667542c7d06f71e598bdee7fe57272013\adapter-rxjava-2.0.0-beta4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bd49baf667542c7d06f71e598bdee7fe57272013">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.0.0-beta4_2b9675ae948ca188d86dd343a523fa96b8523cc0.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\com.pnikosis-materialish-progress-1.0_4d6727747ebad38315077a72e13eedd3f80a2874.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu-toolbar\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\com.balysv.materialmenu-material-menu-toolbar-1.5.4_928316068018266d763204bdd7d7f87900d5abb3.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.commit451\NativeStackBlur\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="41c55d6455340eed6df1ca4b7e13162e2eb20295">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\com.commit451-NativeStackBlur-1.0.2_6b107d685979d72dc73abfb997740ededc926026.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.eftimoff\android-viewpager-transformers\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4e23b78a184d3262fded46f4799f3b529aaca5b1">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\com.eftimoff-android-viewpager-transformers-1.0.1_0447c276adc6d490262a7f66045d3c68a7c1f96e.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_1438cfa60ecae96ddd143e252488d68909eea4be.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.0_3f60f54e4668000b9f26c2157abff18b6462ec2f.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0-beta4\739e00dea1f0ac04fdb9b6160d667e23cc50a791\retrofit-2.0.0-beta4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="739e00dea1f0ac04fdb9b6160d667e23cc50a791">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0-beta4_36035ddd0f69872fbeb695a039b11280ae526e38.jar" />
+    </item>
+    <item
+        jar="D:\android_github\TorrFM-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="D:\android_github\TorrFM-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_f83d0b0e6d906a1bb784dfffae61859d54bcef41.jar" />
+    </item>
+
+</items>
